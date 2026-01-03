@@ -83,9 +83,9 @@ a {
     align-items: center;
     justify-content: center;
     gap: 50px;
-    min-height: 100vh;
+    /* min-height: 100vh; */
     height: auto;
-    padding: 60px 9% 0;
+    padding: 100px 9% 0;
     color: #fff;
     visibility: hidden;
     opacity: 0;
@@ -253,8 +253,7 @@ a {
     position: absolute;
     width: 500px;
     height: 500px;
-    background: conic-gradient(transparent, transparent, transparent, var(--text-color));
-    /* background: conic-gradient(transparent, transparent, transparent, red); */
+    background: conic-gradient(transparent, transparent, transparent, red);
     transform: rotate(0deg);
     animation: rotate-border 10s linear infinite;
 }
@@ -759,7 +758,7 @@ span,
         display: flex;
         flex-direction: column;
         gap: 10px;
-        padding-top: 100px;
+        padding-top: 90px;
         background-color: var(--bg-color);
     }
 
@@ -803,7 +802,7 @@ span,
 
     /* home page end */
     .about-container {
-        padding: 80px 5% 0;
+        padding: 90px 5% 0;
     }
 
     .section-title1 {
@@ -834,8 +833,8 @@ span,
         color: var(--text-color);
     }
     .home-img .img-box {
-    width: 82vw;
-    height: 82vw;
+    width: 35vw;
+    height: 35vw;
    
 }
 
@@ -1138,6 +1137,7 @@ span,
 @media (min-width:993px) and (max-width:1199px) {
     .home1 {
         background-color: var(--bg-color);
+        padding-top: 170px;
     }
 
     .education-card {
