@@ -545,10 +545,9 @@ a {
 }
 
 .project-info:hover p,
-.project-info:hover a
-{
-color:#145374;
-font-weight:600;
+.project-info:hover a {
+    color: #145374;
+    font-weight: 600;
 }
 
 /* project page styles end */
@@ -773,7 +772,7 @@ span,
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 35px;
+        font-size: 38px;
     }
 
     .home-info p {
@@ -833,6 +832,18 @@ span,
         font-size: 20px;
         color: var(--text-color);
     }
+    .home-img .img-box {
+    position: relative;
+    width: 42vw;
+    height: 42vw;
+    border-radius: 50%;
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
 
     /* about page over */
     .skill-container {
@@ -920,6 +931,10 @@ span,
     .contact-list {
         justify-content: center;
         align-items: center;
+    }
+
+    .home-img .img-box .img-item img {
+        width: 215%;
     }
 
 
