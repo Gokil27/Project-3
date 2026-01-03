@@ -758,7 +758,7 @@ span,
         display: flex;
         flex-direction: column;
         gap: 10px;
-        padding-top: 90px;
+        padding-top: 100px;
         background-color: var(--bg-color);
     }
 
@@ -782,11 +782,14 @@ span,
 
     .btn-sci {
         flex-direction: column;
-        gap: 15px;
+        gap: 30px;
+        margin-top: 10%;
     }
 
     .btn-sci .sci {
         margin-left: 0px;
+        display: flex;
+        gap: 20px;
     }
 
     .home-info h2 {
