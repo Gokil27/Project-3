@@ -286,7 +286,7 @@ a {
     display: block;
     width: 215%;
     object-fit: cover;
-    margin-left: -10px;
+    margin-left: -5px;
     margin-top: 0px;
     mix-blend-mode: lighten;
 }
@@ -758,7 +758,7 @@ span,
         display: flex;
         flex-direction: column;
         gap: 10px;
-        padding-top: 120px;
+        padding-top: 100px;
         background-color: var(--bg-color);
     }
 
@@ -805,7 +805,7 @@ span,
 
     /* home page end */
     .about-container {
-        padding: 150px 5% 0;
+        padding: 100px 5% 0;
     }
 
     .section-title1 {
@@ -836,15 +836,15 @@ span,
         color: var(--text-color);
     }
     .home-img .img-box {
-    width: 35vw;
-    height: 35vw;
+    width: 40vw;
+    height: 40vw;
    
 }
 
 
     /* about page over */
     .skill-container {
-        padding: 150px 5% 0;
+        padding: 160px 5% 0;
     }
 
     .section-title2 {
@@ -898,7 +898,7 @@ span,
 
     /* education page over */
     .contact-container {
-        padding: 100px 5% 0px;
+        padding: 120px 5% 0px;
     }
 
     .section-title5 {
@@ -922,7 +922,7 @@ span,
     }
 
     .contact-item {
-        width: 90%;
+        width: 95%;
     }
 
     .contact-list {
