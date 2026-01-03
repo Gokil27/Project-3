@@ -758,7 +758,7 @@ span,
         display: flex;
         flex-direction: column;
         gap: 10px;
-        padding-top: 100px;
+        padding-top: 140px;
         background-color: var(--bg-color);
     }
 
