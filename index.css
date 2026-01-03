@@ -783,7 +783,7 @@ span,
     .btn-sci {
         flex-direction: column;
         gap: 20px;
-        margin-top: 5%;
+        margin-top: -5%;
     }
 
     .btn-sci .sci {
