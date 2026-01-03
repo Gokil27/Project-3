@@ -253,7 +253,8 @@ a {
     position: absolute;
     width: 500px;
     height: 500px;
-    background: conic-gradient(transparent, transparent, transparent, var(--text-color));
+    /* background: conic-gradient(transparent, transparent, transparent, var(--text-color)); */
+    background: conic-gradient(transparent, transparent, transparent, red);
     transform: rotate(0deg);
     animation: rotate-border 10s linear infinite;
 }
