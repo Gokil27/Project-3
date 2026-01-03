@@ -783,7 +783,7 @@ span,
     .btn-sci {
         flex-direction: column;
         gap: 20px;
-        margin-top: -5%;
+        margin-top: -3%;
     }
 
     .btn-sci .sci {
@@ -836,8 +836,8 @@ span,
         color: var(--text-color);
     }
     .home-img .img-box {
-    width: 40vw;
-    height: 40vw;
+    width: 34vw;
+    height: 34vw;
    
 }
 
