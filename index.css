@@ -253,8 +253,8 @@ a {
     position: absolute;
     width: 500px;
     height: 500px;
-    /* background: conic-gradient(transparent, transparent, transparent, var(--text-color)); */
-    background: conic-gradient(transparent, transparent, transparent, red);
+    background: conic-gradient(transparent, transparent, transparent, var(--text-color));
+    /* background: conic-gradient(transparent, transparent, transparent, red); */
     transform: rotate(0deg);
     animation: rotate-border 10s linear infinite;
 }
@@ -834,8 +834,8 @@ span,
         color: var(--text-color);
     }
     .home-img .img-box {
-    width: 52vw;
-    height: 52vw;
+    width: 62vw;
+    height: 62vw;
    
 }
 
