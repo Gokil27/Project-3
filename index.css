@@ -83,7 +83,7 @@ a {
     align-items: center;
     justify-content: center;
     gap: 50px;
-    min-height: 100vh;
+    /* min-height: 100vh; */
     height: auto;
     padding: 60px 9% 0;
     color: #fff;
