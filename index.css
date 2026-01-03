@@ -758,7 +758,7 @@ span,
         display: flex;
         flex-direction: column;
         gap: 10px;
-        padding-top: 140px;
+        padding-top: 100px;
         background-color: var(--bg-color);
     }
 
@@ -782,8 +782,8 @@ span,
 
     .btn-sci {
         flex-direction: column;
-        gap: 30px;
-        margin-top: 10%;
+        gap: 20px;
+        margin-top: 5%;
     }
 
     .btn-sci .sci {
@@ -805,7 +805,7 @@ span,
 
     /* home page end */
     .about-container {
-        padding: 90px 5% 0;
+        padding: 120px 5% 0;
     }
 
     .section-title1 {
